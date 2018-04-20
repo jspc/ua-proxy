@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjspc%2Fua-proxy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjspc%2Fua-proxy?ref=badge_shield)
+
 ua-proxy
 ==
 
@@ -31,3 +33,7 @@ using
 $ curl localhost:666 -A '{"method": "GET", "url": https://requestb.in/xroxujxr"}'
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjspc%2Fua-proxy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjspc%2Fua-proxy?ref=badge_large)
